@@ -1,0 +1,5 @@
+Hello, World!
+This is a test.
+Python is awesome!
+Writing to files is easy.
+Goodbye!
